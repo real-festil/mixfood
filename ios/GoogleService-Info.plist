@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>365861580099-9siu642fqvspr484bq4bnj7ilvl95foi.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.365861580099-9siu642fqvspr484bq4bnj7ilvl95foi</string>
+	<key>API_KEY</key>
+	<string>AIzaSyACO6H3o9sg5vtUN0jsH9h2lPSiLRce2xA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>365861580099</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mixfood</string>
+	<key>PROJECT_ID</key>
+	<string>mixfood-61855</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mixfood-61855.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:365861580099:ios:83f74415c54693961453f6</string>
+</dict>
+</plist>
